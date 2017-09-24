@@ -4,3 +4,5 @@
 + [LinkedIn Placements](https://github.com/jainilvachhani/Competitive_Programming/tree/master/HackerRank/LinkedIn%20Placements)
 
 ### Algorithms
++ [Implementation](https://github.com/jainilvachhani/Competitive_Programming/tree/master/HackerRank/Algorithms/Implementation)
++ [Warmup](https://github.com/jainilvachhani/Competitive_Programming/tree/master/HackerRank/Algorithms/Warmup)
